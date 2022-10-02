@@ -12,17 +12,8 @@
     src: url("/fonts/TT.woff2");
 }
 
-@font-face {
-    font-family: "LT";
-    src: url("/fonts/LT.woff2");
-}
-
 .TT {
     font-family: "TT";
-}
-
-.LT {
-    font-family: "LT";
 }
 
 .space {
