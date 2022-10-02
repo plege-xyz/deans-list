@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "TT";
+    src: url("/fonts/TT.woff2");
+}
+
+@font-face {
+    font-family: "LT";
+    src: url("/fonts/LT.woff2");
+}
+
+.TT {
+    font-family: "TT";
+}
+
+.LT {
+    font-family: "LT";
+}
+
+.space {
+    font-family: "Space Grotesk", sans-serif;
+}
