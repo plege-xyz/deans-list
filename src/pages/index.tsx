@@ -44,7 +44,6 @@ const Home: NextPage = () => {
             </button>
           </div>
         </div>
-        <div className="h-40 w-screen bg-[#000]"></div>
       </>
     </>
   );
