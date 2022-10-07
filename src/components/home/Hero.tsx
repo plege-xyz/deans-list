@@ -4,7 +4,7 @@ const Hero = () => {
       <div className="flex h-24 w-full items-center pl-8 pt-5">
         <div className="flex items-center gap-x-3">
           <img src="/images/logo.png" alt="" className="h-14 w-14" />
-          <div className="TT text-4xl">DEAN'S LIST</div>
+          <div className="TT text-4xl">DEAN&aposS LIST</div>
         </div>
       </div>
       <div className="flex h-full flex-col items-center justify-center">

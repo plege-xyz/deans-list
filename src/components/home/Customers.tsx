@@ -29,8 +29,8 @@ const Customers = () => {
   return (
     <div className="relative h-56 w-full border-y-4 border-white bg-[url('/images/customers/bg.png')] bg-cover">
       <div className="flex h-full w-full items-center justify-center gap-x-10">
-        {customers.map((customer) => (
-          <div className="flex flex-col items-center gap-y-3">
+        {customers.map((customer, key) => (
+          <div className="flex flex-col items-center gap-y-3" key={key}>
             <img
               src={customer.image}
               alt=""
