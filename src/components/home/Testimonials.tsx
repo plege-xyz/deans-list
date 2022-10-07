@@ -23,8 +23,8 @@ const Testimonials = () => {
         SOLANA FEEDBACK <br /> SESSIONS
       </div>
       <div className="space mt-10 text-center text-xl">
-        Dean's List is a Service DAO consisting of Web3 power users, <br /> who
-        provide valuable feedback sessions to projects
+        Dean&apos;s List is a Service DAO consisting of Web3 power users,{" "}
+        <br /> who provide valuable feedback sessions to projects
       </div>
 
       <div className="space grid grid-cols-3 gap-5 py-20">
