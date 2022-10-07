@@ -20,7 +20,7 @@ const Home: NextPage = () => {
           href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap"
           rel="stylesheet"
         />
-        <link rel="stylesheet" href="/fonts/TT.woff2" />
+        <link rel="stylesheet" href="/fonts/tt.woff2" />
       </Head>
 
       <div className="text-white">
